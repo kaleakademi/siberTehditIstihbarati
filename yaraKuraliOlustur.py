@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-_author="Anil Baran Yelken"
 import hashlib
 import argparse
 def dosyaOku(dosya):
